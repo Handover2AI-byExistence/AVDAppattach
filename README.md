@@ -1,5 +1,7 @@
 # AVD App Attach Automation
 
+![PSScriptAnalyzer](https://github.com/Handover2AI/AVDAppattach/actions/workflows/ci-workflow-psscriptanalyzer.yml/badge.svg)
+
 This repository provides PowerShell scripts to **export, create, and manage Azure Virtual Desktop (AVD) App Attach apps** at scale. It is organized into three main folders:
 
 ---
