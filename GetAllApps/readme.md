@@ -6,7 +6,7 @@ This repository provides scripts to **export existing App Attach apps** into CSV
 
 ## 📑 Two-Step Export Workflow
 
-To balance speed and completeness, we recommend a **two-step process**:
+To balance speed and completeness, I recommend a **two-step process**:
 
 ### ⚡ Step 1 – Fast Export (IDs only)
 - **Script name:** `Get-AllAppAttachStep1.ps1`
